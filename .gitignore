@@ -1,0 +1,42 @@
+# Built application files and directories
+build/
+**/build/
+/build
+app/build/
+meayar/build/
+app/release/
+
+# Gradle files
+.gradle/
+**/.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Local configuration
+local.properties
+/local.properties
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ IDEA
+.idea/
+/.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Android Profiling / Caches
+/captures
+.externalNativeBuild
+.cxx
